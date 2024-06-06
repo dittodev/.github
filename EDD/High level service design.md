@@ -241,7 +241,7 @@ potential attacker to attack an application, entry points must exist
 
 
 
-# Appendix II: details multi-account diagram
+# Appendix I: details multi-account diagram
 
 The following diagram details the roles and permissions required in our
 multi-account setup. Note that this diagram is for illustrative purposes
@@ -254,4 +254,4 @@ automate provisioning other dependencies. Increasing the amount of
 access roles and deployment target does not necessarily increase our
 security footprint in this way.
 
-![](/media/image7.png){width="6.5in" height="3.5729166666666665in"}
+![](https://github.com/dittodev/diagrams/blob/main/drawio/ActorsAndSecurityBoundaries.png)
