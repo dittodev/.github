@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* [[Engineering sync log](https://github.com/dittodev/.github/wiki/Engineering-sync-log)
+* [Engineering sync log](https://github.com/dittodev/.github/wiki/Engineering-sync-log)
 
 
 ## High level service architecture
