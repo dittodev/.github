@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+* [[Engineering sync log](https://github.com/dittodev/.github/wiki/Engineering-sync-log)
+
+
+## High level service architecture
+
+![ERD](https://github.com/dittodev/diagrams/blob/main/plantuml/Climate%20Tech%20Solutions%20-%20CounterPartyPortal%20ERD.png)
+
+![Architecture](https://github.com/dittodev/diagrams/blob/main/drawio/CounterPartyPortalHighLevelSystemArchitecture.png)
+
+## Architectural Design Records
+
+TODO
+
+## Engineering Design Documents
+
+TODO
+
+
 <!--
 
 **Here are some ideas to get you started:**
