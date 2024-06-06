@@ -2,9 +2,9 @@
 
 ### Context
 
-## STX Climate Tech Solutions (SCTS) is building a single portal for Strive (by STX) counterparties to help them understand their trading activity and carbon commodities portfolio, and to facilitate new trading activities. In our initial scope we will focus on Energy Attribute Certificates (EACs). Each counterparty may have one or more identities that can access the account. 
+STX Climate Tech Solutions (SCTS) is building a single portal for Strive (by STX) counterparties to help them understand their trading activity and carbon commodities portfolio, and to facilitate new trading activities. In our initial scope we will focus on Energy Attribute Certificates (EACs). Each counterparty may have one or more identities that can access the account. 
 
-## Additionally, we will build an internal portal for Strive Corporate Account Managers (CAMs) that can access a subset of data from selected counterparties. 
+Additionally, we will build an internal portal for Strive Corporate Account Managers (CAMs) that can access a subset of data from selected counterparties. 
 
 ### Functional product requirements
 
