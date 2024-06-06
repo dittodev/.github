@@ -15,8 +15,7 @@ TODO
 
 ## Engineering Design Documents
 
-TODO
-
+https://github.com/dittodev/.github/tree/main/EDD
 
 <!--
 
