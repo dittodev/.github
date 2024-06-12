@@ -11,7 +11,7 @@ Client side code needs runtime configuration - things like what API endpoints to
 We identify the following options:
 
 1. Bundle all the runtime config - We bundle all runtime config, adding compile time checks for consistency and schema validation. On the client, we implement simple heuristics to select the right configuration (for example the domain).
-2. Bundle runtiem config per stage - Bundle runtime config per stage, compiling different bundles per stage.
+2. Bundle runtime config per stage - Bundle runtime config per stage, compiling different bundles per stage.
 3. Runtime config injection - Common in the industry this is a two-stage approach: we ship config and bundle separately and inject configuration at "bootstrap" time. Often this happens in the shape of an index.html generated server-side, or a dedicated service like AWS AppConfig, or Optimizely.
 
 ## Decision
@@ -20,4 +20,4 @@ We go with option (1): Bundle all runtime config, add compile time checks, imple
 
 ## Consequences
 
-We are aware of the limitations of this approach, and will revisit this decision alter, as we identify requirements or scaling concerns.
+We are aware of the limitations of this approach, and will revisit this decision later, as we identify requirements or scaling concerns.
