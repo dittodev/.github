@@ -1,9 +1,9 @@
-### Engeering Tenets
+### Engineering Tenets
 
 _[Unless you know better ones:](https://aws.amazon.com/blogs/enterprise-strategy/tenets-supercharging-decision-making/)_
 
 - **We are full-stack, fungible engineers**: we have a good grasp and understanding of UX best practices and patterns, distributed web architecture and the full-stack life cycle of a request. 
-- **Implementation is communication**: code is written to communicate intent, optimzied to be maintained and modified by others. Tests support our development process, not the other way around. We test the behaviour of our code, not the implementation.
+- **Implementation is communication**: code is written to communicate intent, optimized to be maintained and modified by others. Tests support our development process, not the other way around. We test the behaviour of our code, not the implementation.
 - **Optimize for what we know**: principles are exercised pragmatically, and while everything is a tradeoff, not everything is a debate. We record decisions and maintain a repository of knowledge, not procedures. 
 - **Keep it simple and fast**: we do not need an issue, ticket, or user story for every pull request. It is perfectly fine (and desired) to make cosmetic changes, small improvements, minor enhancements in a pull request, but we always make sure to document the intent of the change somewhere.
 
