@@ -1,3 +1,10 @@
+## Bookmarks
+
+* [Engineering sync log](https://github.com/dittodev/.github/wiki/Engineering-sync-log)
+* [Engineering design documents (EDD)](https://github.com/dittodev/.github/tree/main/EDD)
+* [Architecture decision records (ADR)](https://github.com/dittodev/.github/tree/main/ADR)
+
+
 ### Engineering Tenets
 
 _[Unless you know better ones:](https://aws.amazon.com/blogs/enterprise-strategy/tenets-supercharging-decision-making/)_
